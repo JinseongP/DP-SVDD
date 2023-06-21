@@ -1,5 +1,6 @@
 # Differentially-private-multi-class-classification-using-kernel-supports-and-equilibrium-points
-Python implementation for 'Differentially private multi-class classification using kernel supports and equilibrium points'
+Python implementation for 'Differentially private multi-class classification using kernel supports and equilibrium points' published in Information Sciences Volume 619, January 2023, Pages 889-907.
+Please refer to https://www.sciencedirect.com/science/article/pii/S0020025522011951.
 
 ### How to use
 
@@ -15,3 +16,17 @@ sklearn
 numpy
 cvxopt
 
+
+
+### Citation
+```bibtex
+@article{park2023efficient,
+  title={Efficient differentially private kernel support vector classifier for multi-class classification},
+  author={Park, Jinseong and Choi, Yujin and Byun, Junyoung and Lee, Jaewook and Park, Saerom},
+  journal={Information Sciences},
+  volume={619},
+  pages={889--907},
+  year={2023},
+  publisher={Elsevier}
+}
+```
