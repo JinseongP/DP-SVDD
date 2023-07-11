@@ -1,5 +1,5 @@
-# Efficient differentially private kernel support vector classifier for multi-class classification},
-Python implementation for 'Efficient differentially private kernel support vector classifier for multi-class classification},' published in Information Sciences Volume 619, January 2023, Pages 889-907.
+# Efficient differentially private kernel support vector classifier for multi-class classification
+Python implementation for 'Efficient differentially private kernel support vector classifier for multi-class classification' published in Information Sciences Volume 619, January 2023, Pages 889-907.
 Please refer to https://www.sciencedirect.com/science/article/pii/S0020025522011951.
 
 ### How to use
